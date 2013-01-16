@@ -3,7 +3,8 @@ layout: post
 title: "Spin Off Project : The Seven Habbits Monitoring Mac Application"
 description: ""
 category: 
-tags: [mac]
+tags:
+- mac
 ---
 {% include JB/setup %}
 Awalnya saya mencari aplikasi offline/desktop untuk [Trello](http://trello.com), dan menemukan aplikasi "lucu" : [Trellodesktop](htp://trellodesktop.com]. Aplikasi itu cuma web browser custom yang diarahkan ke Trello aja. Saya butuh itu untuk membuat fokus saya ke situs oDesk lebih bagus (halah, tapi mungkin saya memang sekedar lagi banyak waktu luang untuk mempelajari hal yang baru aja sih). Akhirnya saya buat aplikasi serupa dengan Xcode dan saya siapkan situs khusus untuk itu di [sini](http://odeskdesktop.swdevbali.com).

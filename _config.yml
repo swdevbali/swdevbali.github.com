@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Eko S. Wibowo Coding Blog
-tagline: erbagi pengetahuan koding iOS, Mac, Ruby, MongoDB, Cocos2d, .NET dan PHP
+tagline: Berbagi pengetahuan koding iOS, Mac, Ruby, MongoDB, Cocos2d, .NET dan PHP
 author :
   name : Eko Wibowo
   email : swdev.bali@gmail.com
